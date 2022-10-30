@@ -1,1 +1,2 @@
-That's the initial file
+That's the new file
+now I have made some changes
